@@ -1,6 +1,6 @@
-module github.com/goccy/go-zetasqlite
+module github.com/parinpan/go-zetasqlite
 
-go 1.19
+go 1.25
 
 require (
 	github.com/goccy/go-zetasql v0.5.5

@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	zetasqlite "github.com/goccy/go-zetasqlite"
+	"github.com/parinpan/go-zetasqlite"
 )
 
 func TestDriver(t *testing.T) {
